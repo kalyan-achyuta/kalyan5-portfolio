@@ -8,7 +8,7 @@ export function Resume() {
   const education = [
     {
       degree: 'B.Tech in ECE',
-      institution: 'Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology (2017 - 2021)',
+      institution: 'Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology',
       score: '7.68 CGPA',
       description: 'The training provided by universities in order to prepare people to work in various sectors of the economy or areas of culture.',
       year: '2017 - 2021',
@@ -38,7 +38,7 @@ export function Resume() {
       company: 'Infosys',
       location: 'BENGALURU',
       description: 'Infosys enables businesses to accelerate digital transformation through cloud, AI, consulting, and next-generation technology solutions.',
-      year: '2025 - 202PRESENT',
+      year: '2025 - PRESENT',
       timeline: 'right',
     },
     {
